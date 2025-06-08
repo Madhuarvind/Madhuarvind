@@ -27,16 +27,16 @@
 ### 🛠️ Skills & Technologies
 
 #### 💻 Languages  
-<img src="https://img.icons8.com/color/48/python.png" height="40"/> <img src="https://img.icons8.com/ios-filled/48/sql.png" height="40"/> <img src="https://img.icons8.com/color/48/c-programming.png" height="40"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/html-5.png" height="40"/> <img src="https://img.icons8.com/color/48/css3.png" height="40"/> <img src="https://img.icons8.com/color/48/javascript--v1.png" height="40"/> <img src="https://img.icons8.com/officel/48/php-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/google-bigquery.png" height="40"/>
+<img src="https://img.icons8.com/color/48/python.png" height="40"/> <img src="https://img.icons8.com/?size=512w&id=J6KcaRLsTgpZ&format=png" height="40"/> <img src="https://img.icons8.com/color/48/c-programming.png" height="40"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/html-5.png" height="40"/> <img src="https://img.icons8.com/color/48/css3.png" height="40"/> <img src="https://img.icons8.com/color/48/javascript--v1.png" height="40"/> <img src="https://img.icons8.com/officel/48/php-logo.png" height="40"/> 
 
 #### 🧠 Libraries & Frameworks  
-<img src="https://img.icons8.com/color/48/pandas.png" height="40"/> <img src="https://img.icons8.com/color/48/numpy.png" height="40"/> <img src="https://miro.medium.com/v2/resize:fit:1400/0*1rFbecS2nRDQvTna" height="40"/> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="40"/> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/> <img src="https://img.icons8.com/color/48/tensorflow.png" height="40"/> <img src="https://img.icons8.com/color/48/plotly.png" height="40"/> <img src="https://img.icons8.com/?size=512&id=ewGOClUtmFX4&format=png" height="40"/>
+<img src="https://img.icons8.com/color/48/pandas.png" height="40"/> <img src="https://img.icons8.com/color/48/numpy.png" height="40"/> <img src="https://img.icons8.com/?size=512&id=TkX1totjFmAD&format=png" height="40"/> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="50"/> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/> <img src="https://img.icons8.com/color/48/tensorflow.png" height="40"/> <img src="https://img.icons8.com/color/48/plotly.png" height="40"/> <img src="https://img.icons8.com/?size=512&id=ewGOClUtmFX4&format=png" height="50"/>
 
 #### 🛠 Tools & Platforms  
 <img src="https://img.icons8.com/?size=512&id=Ny0t2MYrJ70p&format=png" height="40"/> <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> <img src="https://img.icons8.com/?size=512&id=12599&format=png" height="40"/> <img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" height="40"/>
 
 #### 🗄️ Databases  
-<img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/mongodb.png" height="40"/> <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/sqlite-logo.png" height="40"/>
+<img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/mongodb.png" height="40"/> <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/sqlite-logo.png" height="50"/>
 
 ---
 
