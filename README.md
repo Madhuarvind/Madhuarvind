@@ -3,7 +3,7 @@
 **📊 Data Analyst | 🔍 Insight Seeker | 💡 AI Enthusiast**  
 `Transforming raw data into powerful insights with Python, SQL, and BI tools.`
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🎓 **B.E. Artificial Intelligence**, MKCE (2023–2027), CGPA: 9.2  
 - 📈 **Intern @ Pantech E Learning Pvt Ltd**  
