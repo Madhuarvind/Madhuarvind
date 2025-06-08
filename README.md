@@ -17,8 +17,6 @@
 
 
 
----
-
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MadhuAravindP-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuaravind-p-a18325290/)  
