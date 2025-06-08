@@ -3,18 +3,15 @@
 **📊 Data Analyst | 🔍 Insight Seeker | 💡 AI Enthusiast**  
 `Transforming raw data into powerful insights with Python, SQL, and BI tools.`
 
-<img align="right" width="300" src="https://media.giphy.com/media/47f0342cec72b800463bf003eac1257e/giphy.gif">
+<img align="right" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
----
-
-### 📚 About Me
 - 🎓 **B.E. Artificial Intelligence**, MKCE (2023–2027), CGPA: 9.2  
 - 📈 **Intern @ Pantech E Learning Pvt Ltd**  
 - 📊 Skilled in **Python, SQL, Power BI, Pandas, Flask**  
 - 🌐 Portfolio: [madhuportfolio.web.app](https://madhuportfolio-3bba7.web.app/)  
 - 🧠 Guest Speaker at *Kaggle Days Summit 2024* | Panelist @ *PyData Community*  
 - 🔎 Passionate about Data Visualization, AI Automation, and Predictive Analytics  
-- 📫 Email: madhuaravind21@gmail.com  
+- 📫 Email: madhuaravind21@gmail.com
 
 ---
 
@@ -23,58 +20,58 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MadhuAravindP-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuaravind-p-a18325290/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Madhuarvind-333?style=for-the-badge&logo=github)](https://github.com/Madhuarvind)  
 [![Leetcode](https://img.shields.io/badge/Leetcode-Madhuaravind-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Madhuaravind/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-Madhu_P-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/madhuaravind21)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-Madhu_P-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/madhuaravind21)
 
 ---
 
 ### 🛠️ Skills & Technologies
 
 #### 💻 Languages  
-![Python](https://img.icons8.com/color/48/000000/python.png)  
-![SQL](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png)  
-![C](https://img.icons8.com/color/48/000000/c-programming.png)  
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)  
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)  
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)  
-![CSS](https://img.icons8.com/color/48/000000/css3.png)  
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)  
-![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)  
-![Google BigQuery](https://img.icons8.com/color/48/000000/google-bigquery.png)  
+<img src="https://img.icons8.com/color/48/python.png" height="40"/> <img src="https://img.icons8.com/ios-filled/48/sql.png" height="40"/> <img src="https://img.icons8.com/color/48/c-programming.png" height="40"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/html-5.png" height="40"/> <img src="https://img.icons8.com/color/48/css3.png" height="40"/> <img src="https://img.icons8.com/color/48/javascript--v1.png" height="40"/> <img src="https://img.icons8.com/officel/48/php-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/google-bigquery.png" height="40"/>
 
 #### 🧠 Libraries & Frameworks  
-![Pandas](https://img.icons8.com/color/48/000000/pandas.png)  
-![NumPy](https://img.icons8.com/color/48/000000/numpy.png)  
-![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.png)  
-![Seaborn](https://upload.wikimedia.org/wikipedia/commons/2/22/Seaborn_logo.svg)  
-![Scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)  
-![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)  
-![Plotly](https://img.icons8.com/color/48/000000/plotly.png)  
-![Flask](https://img.icons8.com/color/48/000000/flask.png)  
+<img src="https://img.icons8.com/color/48/pandas.png" height="40"/> <img src="https://img.icons8.com/color/48/numpy.png" height="40"/> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-matplotlib-python-programming-soft-fill-soft-fill-juicy-fish.png" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Seaborn_logo.svg" height="40"/> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/> <img src="https://img.icons8.com/color/48/tensorflow.png" height="40"/> <img src="https://img.icons8.com/color/48/plotly.png" height="40"/> <img src="https://img.icons8.com/color/48/flask.png" height="40"/>
 
 #### 🛠 Tools & Platforms  
-![Power BI](https://img.icons8.com/color/48/000000/microsoft-power-bi.png)  
-![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)  
-![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png)  
-![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  
-![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)  
-![Jupyter Notebook](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jupyter-a-browser-based-interactive-computing-environment-logo-color-tal-revivo.png)  
-![Google BigQuery](https://img.icons8.com/color/48/000000/google-bigquery.png)  
+<img src="https://img.icons8.com/?size=512&id=Ny0t2MYrJ70p&format=png" height="40"/> <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> <img src="https://static.vecteezy.com/system/resources/previews/016/833/880/non_2x/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" height="40"/> <img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" height="40"/> <img src="https://miro.medium.com/v2/resize:fit:878/1*jNf8QbZbZ2L56A4a8UKWHQ.png" height="40"/>
 
 #### 🗄️ Databases  
-![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png)  
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)  
-![SQLite](https://img.icons8.com/color/48/000000/sqlite.png)  
+<img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/mongodb.png" height="40"/> <img src="https://www.logo.wine/logo/SQLite" height="40"/>
+
+---
+
+### 📚 Coursework & Involvement
+
+- 🧮 **Courses:** DSA, DBMS, Machine Learning, Big Data  
+- 🎤 **Talks:**  
+  - *Guest Speaker* – Kaggle Days 2024: “Feature Engineering for Tabular Data”  
+  - *Panelist* – PyData Community: “The Role of Pandas/NumPy in Modern Data Analysis”  
+
+---
+
+### 💼 Featured Projects
+
+#### 🚀 [Data Preprocessing Web App](https://github.com/Madhuarvind/Data-preprocessing)
+> Python | Flask | Pandas | Matplotlib | Seaborn | HTML/CSS  
+- Automated cleaning: missing values, encoding, scaling, and outlier detection  
+- Visual summaries and one-click transformations for datasets (10k+ rows)  
+- Reduced manual effort by 60%
+
+#### 📦 [InventoryPro – Inventory Management System](https://github.com/Madhuarvind/InventoryPro)
+> PHP | MySQL | JavaScript | Flask | Bootstrap | Chart.js  
+- Real-time inventory dashboard with alerts and visual reports  
+- Admin/customer roles with CRUD functionality  
+- Boosted inventory accuracy by 30%
 
 ---
 
 ### 📊 GitHub & LeetCode Stats
 
 ![Madhu’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhuarvind&show_icons=true&theme=tokyonight)  
-[![Madhu’s LeetCode](https://leetcard.jacoblin.cool/Madhuaravind?ext=contest&theme=dark)](https://leetcode.com/u/Madhuaravind/)  
+[![Madhu’s LeetCode](https://leetcard.jacoblin.cool/Madhuaravind?ext=contest&theme=dark)](https://leetcode.com/u/Madhuaravind/)
 
 ---
 
 ### 💡 Currently Learning
 
-📈 Predictive Modeling • 📊 Dashboarding with Power BI & Tableau • 🔍 Deep Learning for Analytics  
-
+`📈 Predictive Modeling` • `📊 Dashboarding with Power BI & Tableau` • `🔍 Deep Learning for Analytics`
