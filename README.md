@@ -27,41 +27,16 @@
 ### 🛠️ Skills & Technologies
 
 #### 💻 Languages  
-<img src="https://img.icons8.com/color/48/python.png" height="40"/> 
-<img src="https://img.icons8.com/ios-filled/48/sql.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/c-programming.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/html-5.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/css3.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/javascript--v1.png" height="40"/> 
-<img src="https://img.icons8.com/officel/48/php-logo.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/google-bigquery.png" height="40"/>
+<img src="https://img.icons8.com/color/48/python.png" height="40"/> <img src="https://img.icons8.com/ios-filled/48/sql.png" height="40"/> <img src="https://img.icons8.com/color/48/c-programming.png" height="40"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/html-5.png" height="40"/> <img src="https://img.icons8.com/color/48/css3.png" height="40"/> <img src="https://img.icons8.com/color/48/javascript--v1.png" height="40"/> <img src="https://img.icons8.com/officel/48/php-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/google-bigquery.png" height="40"/>
 
 #### 🧠 Libraries & Frameworks  
-<img src="https://img.icons8.com/color/48/pandas.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/numpy.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/tensorflow.png" height="40"/> 
-<img src="https://img.icons8.com/ios/50/null/flask.png" height="40"/> 
-<img src="https://img.icons8.com/ios-filled/50/000000/plotly.png" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" height="40"/>  
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/>
-
-> ⚠️ Seaborn and scikit-learn logos are hosted from official docs — they may appear differently on GitHub.
+<img src="https://img.icons8.com/color/48/pandas.png" height="40"/> <img src="https://img.icons8.com/color/48/numpy.png" height="40"/> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-matplotlib-python-programming-soft-fill-soft-fill-juicy-fish.png" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Seaborn_logo.svg" height="40"/> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/> <img src="https://img.icons8.com/color/48/tensorflow.png" height="40"/> <img src="https://img.icons8.com/color/48/plotly.png" height="40"/> <img src="https://img.icons8.com/color/48/flask.png" height="40"/>
 
 #### 🛠 Tools & Platforms  
-<img src="https://img.icons8.com/color/48/microsoft-power-bi.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> 
-<img src="https://img.icons8.com/ios-glyphs/48/github.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/jupyter.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/google-bigquery.png" height="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-power-bi.png" height="40"/> <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> <img src="https://img.icons8.com/material-outlined/48/github.png" height="40"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jupyter-a-browser-based-interactive-computing-environment-logo-color-tal-revivo.png" height="40"/> <img src="https://img.icons8.com/color/48/google-bigquery.png" height="40"/>
 
 #### 🗄️ Databases  
-<img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/mongodb.png" height="40"/> 
-<img src="https://img.icons8.com/color/48/sqlite.png" height="40"/>
+<img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/mongodb.png" height="40"/> <img src="https://img.icons8.com/color/48/sqlite.png" height="40"/>
 
 ---
 
