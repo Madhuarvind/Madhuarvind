@@ -3,7 +3,9 @@
 **📊 Data Analyst | 🔍 Insight Seeker | 💡 AI Enthusiast**  
 `Transforming raw data into powerful insights with Python, SQL, and BI tools.`
 
-<img align="right" width="370" height="200" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+
 
 - 🎓 **B.E. Artificial Intelligence**, MKCE (2023–2027), CGPA: 9.2  
 - 📈 **Intern @ Pantech E Learning Pvt Ltd**  
@@ -12,6 +14,8 @@
 - 🧠 Guest Speaker at *Kaggle Days Summit 2024* | Panelist @ *PyData Community*  
 - 🔎 Passionate about Data Visualization, AI Automation, and Predictive Analytics  
 - 📫 Email: madhuaravind21@gmail.com
+
+
 
 ---
 
