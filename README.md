@@ -3,27 +3,26 @@
 **📊 Data Analyst | 🔍 Insight Seeker | 💡 AI Enthusiast**  
 `Transforming raw data into powerful insights with Python, SQL, and BI tools.`
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Data Visualization GIF"/>
+<img align="right" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🎓 **B.E. Artificial Intelligence**, MKCE (2023–2027), CGPA: 9.2  
-- 📈 **Intern @ Pantech E Learning Pvt Ltd** – Built Power BI dashboards, automated reports  
-- 🛠️ Skilled in **Python, SQL, Power BI, Pandas, Flask, Tableau**  
+- 📈 **Intern @ Pantech E Learning Pvt Ltd**  
+- 📊 Skilled in **Python, SQL, Power BI, Pandas, Flask**  
 - 🌐 Portfolio: [madhuportfolio.web.app](https://madhuportfolio-3bba7.web.app/)  
-- 🧠 Guest Speaker – *Kaggle Days Summit 2024* | Panelist – *PyData Community*  
-- 🔍 Passionate about **Data Visualization**, **AI Automation**, and **Predictive Analytics**  
-- 📫 Reach me at: madhuaravind21@gmail.com
+- 🧠 Guest Speaker at *Kaggle Days Summit 2024* | Panelist @ *PyData Community*  
+- 🔎 Passionate about Data Visualization, AI Automation, and Predictive Analytics  
+- 📫 Email: madhuaravind21@gmail.com
 
 ---
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MadhuAravindP-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhuaravind-p-a18325290/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MadhuAravindP-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuaravind-p-a18325290/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Madhuarvind-333?style=for-the-badge&logo=github)](https://github.com/Madhuarvind)  
-[![Leetcode](https://img.shields.io/badge/Leetcode-Madhuaravind-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Madhuaravind/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-Madhu_P-2EC866?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/profile/madhuaravind21)
+[![Leetcode](https://img.shields.io/badge/Leetcode-Madhuaravind-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Madhuaravind/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-Madhu_P-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/madhuaravind21)
 
 ---
-
 
 ### 🛠️ Skills & Technologies
 
@@ -40,9 +39,6 @@
 <img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/mongodb.png" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" height="40"/>
 
 ---
-
-
-
 ### 📚 Coursework & Involvement
 
 - 🧮 Courses: DSA, DBMS, Machine Learning, Big Data  
@@ -72,34 +68,19 @@
 
 ---
 
-### 📈 Madhu's Developer Dashboard
+### 📊 GitHub & LeetCode Stats
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhuarvind&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuarvind&layout=compact&theme=tokyonight)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Madhuarvind&theme=tokyonight&hide_border=true)  
-[![Leetcode](https://leetcard.jacoblin.cool/Madhuaravind?ext=contest&theme=dark)](https://leetcode.com/u/Madhuaravind/)  
+[![Leetcode](https://leetcard.jacoblin.cool/Madhuaravind?ext=contest&theme=dark)](https://leetcode.com/u/Madhuaravind/)
 ![Madhu's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Madhuarvind&theme=tokyo-night&area=true&hide_border=true)
 
 ---
-
 ### 💡 Currently Learning
 
 - `📊 Power BI & Tableau Advanced Dashboarding`  
 - `📈 Predictive Modeling & Time Series Forecasting`  
 - `🧠 Deep Learning with TensorFlow & Keras`  
 - `🚀 Building Scalable Data Apps with Flask + BigQuery`
-
----
-
-### 🎯 Personal Motto
-
-> “Data is the new oil — and I love building engines that drive insight.”
-
----
-
-✅ Now it checks **all the boxes** for a high-impact GitHub profile:
-- Strong storytelling  
-- Technically rich  
-- Impact-driven project outcomes  
-- Clean links and activity stats  
-- Learning goals that hint at future value
