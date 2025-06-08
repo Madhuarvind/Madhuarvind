@@ -67,24 +67,11 @@
 
 ### 📊 Madhu's Developer Dashboard
 
-<div align="center">
-
-<!-- GitHub Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=Madhuarvind&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuarvind&layout=compact&theme=tokyonight" width="48%" />
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhuarvind&theme=tokyonight&hide_border=true" width="98%" />
-
-<!-- LeetCode Rating Card -->
-<a href="https://leetcode.com/u/Madhuaravind/">
-  <img src="https://leetcard.jacoblin.cool/Madhuaravind?ext=contest&theme=dark&animation=true" width="98%" />
-</a>
-
-<!-- Contribution Heatmap -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhuarvind&theme=tokyo-night&area=true&hide_border=true" width="98%" />
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhuarvind&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuarvind&layout=compact&theme=tokyonight)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Madhuarvind&theme=tokyonight&hide_border=true)  
+[![Leetcode](https://leetcard.jacoblin.cool/Madhuaravind?ext=contest&theme=dark)](https://leetcode.com/u/Madhuaravind/)
+![Madhu's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Madhuarvind&theme=tokyo-night&area=true&hide_border=true)
 
 ---
 
