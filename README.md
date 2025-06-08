@@ -33,10 +33,10 @@
 <img src="https://img.icons8.com/color/48/pandas.png" height="40"/> <img src="https://img.icons8.com/color/48/numpy.png" height="40"/> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-matplotlib-python-programming-soft-fill-soft-fill-juicy-fish.png" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Seaborn_logo.svg" height="40"/> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/> <img src="https://img.icons8.com/color/48/tensorflow.png" height="40"/> <img src="https://img.icons8.com/color/48/plotly.png" height="40"/> <img src="https://img.icons8.com/color/48/flask.png" height="40"/>
 
 #### 🛠 Tools & Platforms  
-<img src="https://img.icons8.com/?size=512&id=Ny0t2MYrJ70p&format=png" height="40"/> <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> <img src="https://static.vecteezy.com/system/resources/previews/016/833/880/non_2x/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg" height="40"/> <img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" height="40"/> <img src="https://miro.medium.com/v2/resize:fit:878/1*jNf8QbZbZ2L56A4a8UKWHQ.png" height="40"/>
+<img src="https://img.icons8.com/?size=512&id=Ny0t2MYrJ70p&format=png" height="40"/> <img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> <img src="https://img.icons8.com/?size=512&id=12599&format=png" height="40"/> <img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" height="40"/>
 
 #### 🗄️ Databases  
-<img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/mongodb.png" height="40"/> <img src="https://www.logo.wine/logo/SQLite" height="40"/>
+<img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/> <img src="https://img.icons8.com/color/48/mongodb.png" height="40"/> <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/sqlite-logo.png" height="40"/>
 
 ---
 
