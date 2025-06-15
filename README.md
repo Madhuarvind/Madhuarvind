@@ -95,7 +95,6 @@
 ---
 ### 💡 Currently Learning
 
-- `📊 Power BI & Tableau Advanced Dashboarding`  
 - `📈 Predictive Modeling & Time Series Forecasting`  
 - `🧠 Deep Learning with TensorFlow & Keras`  
 - `🚀 Building Scalable Data Apps with Flask + BigQuery`
