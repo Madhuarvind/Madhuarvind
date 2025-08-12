@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm Madhu Aravind P</h1>
-<h3 align="center">📊 Data Analyst | 🔍 Insight Seeker | 💡 AI Enthusiast</h3>
+<h1>Hey 👋, I'm Madhu Aravind P</h1>
+<h3>📊 Data Analyst | 🔍 Insight Seeker | 💡 AI Enthusiast</h3>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7D53D&center=true&vCenter=true&width=500&lines=Data+Analyst;AI+Enthusiast;Transforming+Data+into+Insights" alt="Typing SVG" />
 </p>
 
@@ -13,17 +13,6 @@
 - 🧠 Guest Speaker at *Kaggle Days Summit 2024* | Panelist @ *PyData Community*  
 - 🔎 Passionate about Data Visualization, AI Automation, and Predictive Analytics  
 - 📫 Email: madhuaravind21@gmail.com
-
-
-
-## 📑 Table of Contents
-
-- [Let's Connect](#-lets-connect)
-- [Skills & Technologies](#-skills--technologies)
-- [Coursework & Involvement](#-coursework--involvement)
-- [Featured Projects](#-featured-projects)
-- [GitHub & LeetCode Stats](#-github--leetcode-stats)
-- [Currently Learning](#-currently-learning)
 
 ---
 
@@ -63,39 +52,17 @@
 
 ---
 
-### 💼 Featured Projects
+### 📊 GitHub & LeetCode Stats ✨
 
-#### 🚀 [Data Preprocessing Web App – Live Demo](https://github.com/Madhuarvind/Data-preprocessing)
-> Python | Flask | Pandas | Matplotlib | Seaborn | HTML/CSS  
-- One-click transformation tool for datasets (10k+ rows)  
-- Handles missing values, outliers, encoding, scaling  
-- Added visual reports, reducing manual effort by 60%  
-- Improved preprocessing clarity by 40% in user tests
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhuarvind&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuarvind&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-#### 📦 [InventoryPro – Inventory Management System](https://github.com/Madhuarvind/InventoryPro)
-> PHP | MySQL | JavaScript | Flask | Bootstrap | Chart.js  
-- Real-time inventory dashboard with visual alerts  
-- Managed 100+ products with CRUD and user roles  
-- Boosted stock accuracy by 30%, reduced data errors by 50%
-
----
-
-
-### 📊 GitHub & LeetCode Stats
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhuarvind&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuarvind&layout=compact&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Madhuarvind&theme=tokyonight&hide_border=true)  
-[![Leetcode](https://leetcard.jacoblin.cool/Madhuaravind?ext=contest&theme=dark)](https://leetcode.com/u/Madhuaravind/)
-
----
-### 💡 Currently Learning
-
-- `📈 Predictive Modeling & Time Series Forecasting`  
-- `🧠 Deep Learning with TensorFlow & Keras`  
-- `🚀 Building Scalable Data Apps with Flask + BigQuery`
-
----
+<p align="center">
+  <a href="https://leetcode.com/u/Madhuaravind/">
+    <img src="https://leetcard.jacoblin.cool/Madhuaravind?theme=dark" alt="LeetCode Stats" />
+  </a>
+</p>
 
 Thanks for stopping by! Feel free to connect with me for collaboration, discussions, or opportunities.
