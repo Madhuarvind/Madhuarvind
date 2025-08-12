@@ -1,10 +1,9 @@
-## 👋 Hi there, I’m Madhu Aravind P
+<h1 align="center">Hey 👋, I'm Madhu Aravind P</h1>
+<h3 align="center">📊 Data Analyst | 🔍 Insight Seeker | 💡 AI Enthusiast</h3>
 
-**📊 Data Analyst | 🔍 Insight Seeker | 💡 AI Enthusiast**  
-`Transforming raw data into powerful insights with Python, SQL, and BI tools.`
-
-<img align="right" width="370" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7D53D&center=true&vCenter=true&width=500&lines=Data+Analyst;AI+Enthusiast;Transforming+Data+into+Insights" alt="Typing SVG" />
+</p>
 
 
 - 🎓 **B.E. Artificial Intelligence**, MKCE (2023–2027), CGPA: 9.2  
