@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7D53D&center=true&vCenter=true&width=500&lines=Data+Analyst;AI+Enthusiast;Transforming+Data+into+Insights" alt="Typing SVG" />
 </p>
 
+## 🧠 About Me & Education
 
 - 🎓 **B.E. Artificial Intelligence**, MKCE (2023–2027), CGPA: 9.2  
 - 📈 **Intern @ Pantech E Learning Pvt Ltd**  
