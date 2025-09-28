@@ -10,7 +10,7 @@
 - 🎓 **B.E. Artificial Intelligence**, MKCE (2023–2027), CGPA: 9.2  
 - 📈 **Intern @ Pantech E Learning Pvt Ltd**  
 - 📊 Skilled in **Python, SQL, Power BI, Pandas, Flask**  
-- 🌐 Portfolio: [madhuportfolio.web.app](https://madhuportfolio-3bba7.web.app/)  
+- 🌐 Portfolio: [madhuportfolio.netlify.app](https://madhufolio.netlify.app/)  
 - 🧠 Guest Speaker at *Kaggle Days Summit 2024* | Panelist @ *PyData Community*  
 - 🔎 Passionate about Data Visualization, AI Automation, and Predictive Analytics  
 - 📫 Email: madhuaravind21@gmail.com
